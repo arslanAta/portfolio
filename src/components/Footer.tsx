@@ -1,4 +1,3 @@
-import React from 'react'
 import LinkedInIcon from '../assets/icons/LinkedInIcon'
 
 const Footer = () => {

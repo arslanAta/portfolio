@@ -1,9 +1,5 @@
-import { animate } from "framer-motion"
 import { motion } from "framer-motion"
 
-const iconVariants = (duration: number) => {
-
-}
 const Technologies = () => {
 
     return (
