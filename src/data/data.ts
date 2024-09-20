@@ -16,6 +16,14 @@ const User = {
             img:'../img/js.png'
         },
         {
+            name:'Typescript',
+            img:'../img/ts.png'
+        },
+        {
+            name:'Vite',
+            img:'../img/vite.png'
+        },
+        {
             name:'Tailwind',
             img:'../img/tailwind.png'
         },
